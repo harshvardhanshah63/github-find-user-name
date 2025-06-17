@@ -2,12 +2,20 @@
 
 A modern, responsive web application for searching and exploring GitHub users, their profiles, repositories, and stats with real-time search suggestions and stunning animations.
 
-![GitHub Finder Preview](./assets/preview.png) <!-- Add your screenshot in assets -->
+![🔍 GitHub Finder - visual selection (5)](https://github.com/user-attachments/assets/f06a0299-ab1b-4e0e-b10d-b8b9068d3c30)
+
 
 ---
 
 📸 Screenshots
 
+![Screenshot 2025-06-17 195639](https://github.com/user-attachments/assets/576a3b5a-f7b7-4cc0-8563-e0eedbcda4bf)
+![Screenshot 2025-06-17 195700](https://github.com/user-attachments/assets/5e663666-b66b-4994-8678-4fc4beb85502)
+![Screenshot 2025-06-17 195747](https://github.com/user-attachments/assets/5eda547d-1b0a-4d10-a038-4728fd6f65be)
+![Screenshot 2025-06-17 195804](https://github.com/user-attachments/assets/e9857cec-bb9d-45d2-9e3a-084ea7f6c466)
+![Screenshot 2025-06-17 195826](https://github.com/user-attachments/assets/62771fd4-ea39-46aa-bb6d-892c6c0d52c7)
+![Screenshot 2025-06-17 195849](https://github.com/user-attachments/assets/ebbb6257-2d99-42db-81fb-c31c1faf88dc)
+![Screenshot 2025-06-17 195907](https://github.com/user-attachments/assets/bf384eb6-4842-45a7-8262-c55a2736758d)
 
 ---
 
@@ -49,6 +57,10 @@ A modern, responsive web application for searching and exploring GitHub users, t
 - Loading Screens & Error Handling
 - Full Accessibility (ARIA labels, keyboard nav)
 
+
+![🔍 GitHub Finder - visual selection (1) (1)](https://github.com/user-attachments/assets/5d29f6ff-affd-421e-8038-83b4ffcaeaed)
+
+
 ---
 
 ## 🛠️ Technologies Used
@@ -61,11 +73,16 @@ A modern, responsive web application for searching and exploring GitHub users, t
 | **Design**   | Flexbox, Grid, CSS Custom Properties  |
 | **UI Effects** | CSS3 Transitions, Transforms, Emojis |
 
+
+![🔍 GitHub Finder - visual selection (2) (1)](https://github.com/user-attachments/assets/169f77ae-df7e-440b-9e91-49ac1b28998d)
+
+
 ---
 
 ## 📁 Project Structure
 
 
+![🔍 GitHub Finder - visual selection (4) (1)](https://github.com/user-attachments/assets/89591bee-f6e9-4706-a8fb-b040609a8e80)
 
 
 ---
@@ -80,6 +97,8 @@ Offline support via service workers
 ## 📬 Contact & Credits
 Created with 💻 by HARSHVARDHAN SHAH
 Feel free to fork, use, and improve the project! For feedback or feature requests, open an issue or contact me directly.
+
+![🔍 GitHub Finder - visual selection (3) (1)](https://github.com/user-attachments/assets/a6ebc9ab-920c-4830-9244-3040f30b6266)
 
 
 ## 🚀 Getting Started
