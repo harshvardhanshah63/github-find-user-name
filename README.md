@@ -5,7 +5,7 @@ A modern, responsive web application for searching and exploring GitHub users, t
 ![🔍 GitHub Finder - visual selection (5)](https://github.com/user-attachments/assets/f06a0299-ab1b-4e0e-b10d-b8b9068d3c30)
 
 
----
+
 
 📸 Screenshots
 
@@ -17,7 +17,7 @@ A modern, responsive web application for searching and exploring GitHub users, t
 ![Screenshot 2025-06-17 195849](https://github.com/user-attachments/assets/ebbb6257-2d99-42db-81fb-c31c1faf88dc)
 ![Screenshot 2025-06-17 195907](https://github.com/user-attachments/assets/bf384eb6-4842-45a7-8262-c55a2736758d)
 
----
+
 
 ## ✨ Features
 
@@ -61,7 +61,7 @@ A modern, responsive web application for searching and exploring GitHub users, t
 ![🔍 GitHub Finder - visual selection (1) (1)](https://github.com/user-attachments/assets/5d29f6ff-affd-421e-8038-83b4ffcaeaed)
 
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -77,7 +77,7 @@ A modern, responsive web application for searching and exploring GitHub users, t
 ![🔍 GitHub Finder - visual selection (2) (1)](https://github.com/user-attachments/assets/169f77ae-df7e-440b-9e91-49ac1b28998d)
 
 
----
+
 
 ## 📁 Project Structure
 
@@ -85,7 +85,7 @@ A modern, responsive web application for searching and exploring GitHub users, t
 ![🔍 GitHub Finder - visual selection (4) (1)](https://github.com/user-attachments/assets/89591bee-f6e9-4706-a8fb-b040609a8e80)
 
 
----
+
 ## 💡Future Improvement
 
 Bookmark GitHub profiles
